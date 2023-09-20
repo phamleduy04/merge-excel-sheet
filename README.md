@@ -2,7 +2,7 @@
 
 ### First time setup
 - Make sure [python](https://python.org) is installed
-- Download this code
+- Download this code then unzip
 - Open powershell/command prompt in this folder. (Shift + Right Click -> Open Powershell Window or Open Terminal Window)
 - Use command `python -m venv venv`
 - Then use 
