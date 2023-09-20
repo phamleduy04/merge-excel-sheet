@@ -8,7 +8,7 @@
 - Then use 
     - `.\venv\Scripts\Activate.ps1` for powershell 
     - `.\venv\Scripts\activate.bat` for command prompt
-    - `source venvs/Scripts/activate` for linux/macos
+    - `source venv/Scripts/activate` for linux/macos
 - Then use `pip install -r requirements.txt`
 - Copy all excel files to `need_to_merge` folder
 - Run `python main.py` to run it
