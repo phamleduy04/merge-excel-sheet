@@ -26,7 +26,7 @@ for file in os.listdir(folder_path):
             # If filename matches the pattern, rename the sheet to the matched data
             match = pattern.search(file)
             if match:
-                copied_sheet.name = match.group()
+                copied_sheet.name = match.group(1)
             else :
                 copied_sheet.name = file
 
